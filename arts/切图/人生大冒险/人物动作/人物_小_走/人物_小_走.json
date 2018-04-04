@@ -1,0 +1,7 @@
+{"file":"人物_小_走.png","frames":{
+"S2_1":{"x":65,"y":173,"w":63,"h":161,"offX":1,"offY":6,"sourceW":66,"sourceH":179},
+"S2_2":{"x":65,"y":0,"w":63,"h":171,"offX":1,"offY":1,"sourceW":66,"sourceH":179},
+"S2_3":{"x":130,"y":0,"w":63,"h":164,"offX":1,"offY":5,"sourceW":66,"sourceH":179},
+"S2_4":{"x":0,"y":173,"w":63,"h":162,"offX":1,"offY":6,"sourceW":66,"sourceH":179},
+"S2_5":{"x":0,"y":0,"w":63,"h":171,"offX":1,"offY":1,"sourceW":66,"sourceH":179},
+"S2_6":{"x":130,"y":166,"w":62,"h":165,"offX":1,"offY":4,"sourceW":66,"sourceH":179}}}

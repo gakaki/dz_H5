@@ -1,0 +1,8 @@
+{"file":"人物_中_碰撞.png","frames":{
+"M_00":{"x":249,"y":177,"w":81,"h":175,"offX":30,"offY":7,"sourceW":142,"sourceH":187},
+"M_01":{"x":249,"y":0,"w":109,"h":175,"offX":30,"offY":7,"sourceW":142,"sourceH":187},
+"M_02":{"x":130,"y":0,"w":103,"h":174,"offX":29,"offY":8,"sourceW":142,"sourceH":187},
+"M_03":{"x":0,"y":0,"w":128,"h":174,"offX":4,"offY":8,"sourceW":142,"sourceH":187},
+"M_04":{"x":0,"y":176,"w":123,"h":175,"offX":11,"offY":7,"sourceW":142,"sourceH":187},
+"M_05":{"x":125,"y":176,"w":122,"h":175,"offX":11,"offY":7,"sourceW":142,"sourceH":187},
+"M_06":{"x":360,"y":0,"w":102,"h":175,"offX":9,"offY":7,"sourceW":142,"sourceH":187}}}

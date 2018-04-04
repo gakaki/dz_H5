@@ -1,0 +1,16 @@
+{"file":"障碍物_红色.png","frames":{
+"red_01":{"x":511,"y":1087,"w":188,"h":201,"offX":74,"offY":49,"sourceW":330,"sourceH":330},
+"red_02":{"x":0,"y":883,"w":251,"h":251,"offX":39,"offY":35,"sourceW":330,"sourceH":330},
+"red_03":{"x":663,"y":0,"w":290,"h":291,"offX":19,"offY":17,"sourceW":330,"sourceH":330},
+"red_04":{"x":332,"y":0,"w":329,"h":324,"offX":0,"offY":0,"sourceW":330,"sourceH":330},
+"red_05":{"x":0,"y":0,"w":330,"h":330,"offX":0,"offY":0,"sourceW":330,"sourceH":330},
+"red_06":{"x":759,"y":1080,"w":222,"h":237,"offX":60,"offY":34,"sourceW":330,"sourceH":330},
+"red_07":{"x":759,"y":835,"w":230,"h":243,"offX":56,"offY":31,"sourceW":330,"sourceH":330},
+"red_08":{"x":519,"y":835,"w":238,"h":250,"offX":52,"offY":28,"sourceW":330,"sourceH":330},
+"red_09":{"x":263,"y":876,"w":246,"h":257,"offX":48,"offY":25,"sourceW":330,"sourceH":330},
+"red_10":{"x":263,"y":610,"w":254,"h":264,"offX":44,"offY":22,"sourceW":330,"sourceH":330},
+"red_11":{"x":0,"y":610,"w":261,"h":271,"offX":41,"offY":19,"sourceW":330,"sourceH":330},
+"red_12":{"x":0,"y":332,"w":268,"h":276,"offX":37,"offY":17,"sourceW":330,"sourceH":330},
+"red_13":{"x":332,"y":326,"w":275,"h":282,"offX":34,"offY":15,"sourceW":330,"sourceH":330},
+"red_14":{"x":663,"y":293,"w":283,"h":289,"offX":30,"offY":12,"sourceW":330,"sourceH":330},
+"red_15":{"x":609,"y":584,"w":286,"h":249,"offX":29,"offY":32,"sourceW":330,"sourceH":330}}}

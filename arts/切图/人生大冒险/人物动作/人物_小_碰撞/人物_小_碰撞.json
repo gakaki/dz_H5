@@ -1,0 +1,8 @@
+{"file":"人物_小_碰撞.png","frames":{
+"S_00":{"x":185,"y":0,"w":60,"h":127,"offX":19,"offY":8,"sourceW":100,"sourceH":140},
+"S_01":{"x":90,"y":130,"w":79,"h":129,"offX":19,"offY":6,"sourceW":100,"sourceH":140},
+"S_02":{"x":171,"y":130,"w":74,"h":128,"offX":19,"offY":7,"sourceW":100,"sourceH":140},
+"S_03":{"x":0,"y":0,"w":93,"h":128,"offX":0,"offY":7,"sourceW":100,"sourceH":140},
+"S_04":{"x":95,"y":0,"w":88,"h":128,"offX":6,"offY":7,"sourceW":100,"sourceH":140},
+"S_05":{"x":0,"y":130,"w":88,"h":128,"offX":6,"offY":7,"sourceW":100,"sourceH":140},
+"S_06":{"x":0,"y":260,"w":75,"h":128,"offX":4,"offY":7,"sourceW":100,"sourceH":140}}}
